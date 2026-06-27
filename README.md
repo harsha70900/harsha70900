@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="YOUR_BANNER_URL" width="100%">
-</p>
-
 <div align="center">
 
 # 👋 Hi, I'm Harshavardhan S V
@@ -28,57 +24,64 @@
 
 ---
 
-# 👨‍💻 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-💻 Passionate **Java Full Stack Developer** specializing in building secure, scalable, and user-friendly web applications.
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🚀 I enjoy transforming ideas into real-world applications using **Java, Spring Boot, React, MySQL, and REST APIs**.
+💻 **Java Full Stack Developer** passionate about building secure, scalable, and modern web applications.
 
-🌱 Currently exploring **Spring Security, Docker, Microservices, and Cloud Deployment**.
+🚀 I specialize in developing enterprise-grade applications using **Java, Spring Boot, React, MySQL, REST APIs, and JWT Authentication.**
 
-🎯 My goal is to contribute to impactful software products while continuously learning modern technologies.
+🌱 Currently expanding my expertise in **Docker, Microservices, AWS, and Cloud-Native Development** to build production-ready software.
+
+🎯 My focus is on writing **clean, maintainable code**, solving real-world problems, and continuously improving as a software engineer.
 
 ---
-
 # 🛠️ Tech Stack
 
 <div align="center">
 
-## 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,mongodb,git,github,maven,postman,vscode,eclipse" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,mysql" />
-</p>
+</div>
 
-## ⚙️ Backend Development
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,maven" />
-</p>
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
-  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-</p>
+| 💻 Languages | ⚙️ Backend | 🎨 Frontend | 🗄️ Database |
+|:------------:|:----------:|:-----------:|:-----------:|
+| Java • JavaScript • Python • SQL | Spring Boot • Spring Security • JWT • JPA • Hibernate • REST APIs | React • React Query • Axios • HTML5 • CSS3 | MySQL • MongoDB |
 
-## 🎨 Frontend Development
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"/>
-</p>
+<div align="center">
 
-## 🗄️ Database
+### 🛠️ Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+Git • GitHub • Maven • VS Code • Eclipse • Postman • Railway • Render • Aiven
+
+</div>
+
+---
+
+# 🚀 What I Do
+
+<div align="center">
+
+| 🌱 Backend Development | ⚛️ Frontend Development | 🗄️ Database |
+|------------------------|-------------------------|-------------|
+| REST API Development | Responsive UI Design | Database Design |
+| Spring Boot Applications | React Applications | MySQL |
+| Spring Security | React Query | MongoDB |
+| JWT Authentication | Axios | SQL Optimization |
+| Role-Based Authorization | HTML5 & CSS3 | JPA/Hibernate |
+
+</div>
+
+---
 
 ## 🛠️ Tools & Platforms
 
@@ -99,18 +102,6 @@
 <div align="center">
 
 ## 💡 *"Code. Learn. Build. Improve. Repeat."*
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=harsha70900&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha70900&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
