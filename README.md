@@ -23,20 +23,6 @@
 </div>
 
 ---
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-💻 **Java Full Stack Developer** passionate about building secure, scalable, and modern web applications.
-
-🚀 I specialize in developing enterprise-grade applications using **Java, Spring Boot, React, MySQL, REST APIs, and JWT Authentication.**
-
-🌱 Currently expanding my expertise in **Docker, Microservices, AWS, and Cloud-Native Development** to build production-ready software.
-
-🎯 My focus is on writing **clean, maintainable code**, solving real-world problems, and continuously improving as a software engineer.
-
----
 # 🛠️ Tech Stack
 
 <div align="center">
